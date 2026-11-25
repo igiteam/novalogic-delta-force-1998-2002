@@ -40,7 +40,9 @@ Classic NovaLogic Delta Force titles Delta Force 1, Delta Force 2, Delta Force: 
 
 [![Delta Force Urban Warfare PSX](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/delta-force-urban-warfare-psx.png)](https://vimm.net/vault/50807)
 
-[![NovaLogic *New Game Engine*](https://img.youtube.com/vi/9Yp2LEIJ4dw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OVlwMkxFSUo0ZHc)
+[![Delta Force Angel Falls Leaked Footage](https://img.youtube.com/vi/IIaq8AsKccg/hqdefault.jpg)](https://ytembed.macosxjs.com/?SUlhcThBc0tjY2c)
+
+[![Delta Force Angel Falls Screenshots](https://img.youtube.com/vi/o5X7wHJTzek/maxresdefault.jpg)](https://ytembed.macosxjs.com/?bzVYN3dISlR6ZWs)
 
 ## Dev Environment
 
