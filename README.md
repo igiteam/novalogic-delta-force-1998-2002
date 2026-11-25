@@ -23,7 +23,7 @@ Classic NovaLogic Delta Force titles Delta Force 1, Delta Force 2, Delta Force: 
 
 [![Delta Force: Black Hawk Down PSX](https://img.youtube.com/vi/ARGmK0M_pjE/hqdefault.jpg)](https://ytembed.macosxjs.com/?eWFncHBtTjRKQ00)
 
-[![Delta Force: Black Hawk Down - Team Sabre PSX](https://img.youtube.com/vi/yagppmN4JCM/hqdefault.jpg)](https://ytembed.macosxjs.com/?OXQ5QmdZVFZVMW8)
+[![Delta Force: Black Hawk Down - Team Sabre PSX](https://img.youtube.com/vi/9t9BgYTVU1o/hqdefault.jpg)](https://ytembed.macosxjs.com/?OXQ5QmdZVFZVMW8)
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
