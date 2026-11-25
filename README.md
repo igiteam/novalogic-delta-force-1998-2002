@@ -42,7 +42,7 @@ Classic NovaLogic Delta Force titles Delta Force 1, Delta Force 2, Delta Force: 
 
 [![Delta Force Angel Falls Leaked Footage](https://img.youtube.com/vi/IIaq8AsKccg/hqdefault.jpg)](https://ytembed.macosxjs.com/?SUlhcThBc0tjY2c)
 
-[![Delta Force Angel Falls Screenshots](https://img.youtube.com/vi/o5X7wHJTzek/hqdefault.jpg)](https://ytembed.macosxjs.com/?bzVYN3dISlR6ZWs)
+[![Delta Force Angel Falls Screenshots](https://i.ytimg.com/vi/tAGTLuXP7jg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?bzVYN3dISlR6ZWs)
 
 ## Dev Environment
 
