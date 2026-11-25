@@ -4,7 +4,7 @@
 
 [![Delta Force 1998](https://img.youtube.com/vi/Fnj-q3ux-Us/hqdefault.jpg)](https://ytembed.macosxjs.com/?Rm5qLXEzdXgtVXM)
 
-[![DELTA FORCE 2](https://img.youtube.com/vi/zd8aaGssVhM/hqdefault.jpg)](https://ytembed.macosxjs.com/?emQ4YWFHc3NWaE0)
+[![DELTA FORCE 2](https://img.youtube.com/vi/GauZqpap_Hs/hqdefault.jpg)](https://ytembed.macosxjs.com/?R2F1WnFwYXBfSHM)
 
 [![Delta Force Land Warrior 2000](https://img.youtube.com/vi/FiR4umVjTi8/hqdefault.jpg)](https://ytembed.macosxjs.com/?RmlSNHVtVmpUaTg)
 
