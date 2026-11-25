@@ -2,7 +2,7 @@
 
 [![delta-force-1998-2002](https://raw.githubusercontent.com/igiteam/delta-force-1998-2002/refs/heads/main/delta-force-1998-2002.png)](https://raw.githubusercontent.com/igiteam/delta-force-1998-2002/refs/heads/main/delta-force-1998-2002.png)
 
-[![Delta Force 1998](https://img.youtube.com/vi/Fnj-q3ux-Us/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Rm5qLXEzdXgtVXM)
+[![Delta Force 1998](https://img.youtube.com/vi/Fnj-q3ux-Us/hqdefault.jpg)](https://ytembed.macosxjs.com/?Rm5qLXEzdXgtVXM)
 
 [![DELTA FORCE 2](https://img.youtube.com/vi/zd8aaGssVhM/maxresdefault.jpg)](https://ytembed.macosxjs.com/?emQ4YWFHc3NWaE0)
 
