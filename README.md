@@ -1,15 +1,15 @@
-# delta-force-1998-2002
-## Silent Hill Shattered Memories Wii - Alone in the Dark The New Nightmare
-A remake of Alone in the Dark: The New Nightmare (2001), rebuilt in the Silent Hill: Shattered Memories engine, using its motion controls, pointer aiming, and Wii survival horror mechanics as the technical base.
-
+# novalogic-delta-force-1998-2002
+## Novalogic Delta Force 1998-2002
+Classic NovaLogic Delta Force titles Delta Force 1, Delta Force 2, Delta Force: Land Warrior, and Delta Force: Task Force Dagger.
+ 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/delta-force-1998-2002](https://treegit.macosxjs.com/?url=igiteam/delta-force-1998-2002)
+[https://treegit.macosxjs.com/?url=igiteam/novalogic-delta-force-1998-2002](https://treegit.macosxjs.com/?url=igiteam/novalogic-delta-force-1998-2002)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/delta-force-1998-2002/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/delta-force-1998-2002/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/novalogic-delta-force-1998-2002/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/novalogic-delta-force-1998-2002/git/trees/main?recursive=1)
 
 ## Base Gameplay
-[![delta-force-1998-2002](https://raw.githubusercontent.com/igiteam/delta-force-1998-2002/refs/heads/main/delta-force-1998-2002.png)](https://raw.githubusercontent.com/igiteam/delta-force-1998-2002/refs/heads/main/delta-force-1998-2002.png)
+[![novalogic-delta-force-1998-2002](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/novalogic-delta-force-1998-2002.png)](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/novalogic-delta-force-1998-2002.png)
 
 [![Delta Force 1998](https://img.youtube.com/vi/Fnj-q3ux-Us/hqdefault.jpg)](https://ytembed.macosxjs.com/?Rm5qLXEzdXgtVXM)
 
@@ -38,7 +38,7 @@ A remake of Alone in the Dark: The New Nightmare (2001), rebuilt in the Silent H
 
 [https://vimm.net/vault/50807](https://vimm.net/vault/50807)
 
-[![Delta Force Urban Warfare PSX](https://raw.githubusercontent.com/igiteam/delta-force-1998-2002/refs/heads/main/delta-force-urban-warfare-psx.png)](https://vimm.net/vault/50807)
+[![Delta Force Urban Warfare PSX](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/delta-force-urban-warfare-psx.png)](https://vimm.net/vault/50807)
 
 
 
