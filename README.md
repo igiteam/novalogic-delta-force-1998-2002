@@ -40,9 +40,25 @@ Classic NovaLogic Delta Force titles Delta Force 1, Delta Force 2, Delta Force: 
 
 [https://novahq.net/files.php?CategoryID=DFTFD&Type=Mod&Game=Delta%20Force%20Task%20Force%20Dagger](https://novahq.net/files.php?CategoryID=DFTFD&Type=Mod&Game=Delta%20Force%20Task%20Force%20Dagger)
 
+[https://archive.org/download/deltaforce-pc-redump/DELTAFORCE-PC-REDUMP/Delta%20Force%20%28USA%29.zip](https://archive.org/download/deltaforce-pc-redump/DELTAFORCE-PC-REDUMP/Delta%20Force%20%28USA%29.zip)
+
+[https://archive.org/download/deltaforce-pc-redump/DELTAFORCE-PC-REDUMP/Delta%20Force%202%20%28USA%29.zip](https://archive.org/download/deltaforce-pc-redump/DELTAFORCE-PC-REDUMP/Delta%20Force%202%20%28USA%29.zip)
+
+[https://archive.org/download/deltaforce-pc-redump/DELTAFORCE-PC-REDUMP/Delta%20Force%20-%20Land%20Warrior%20%28Europe%29.zip](https://archive.org/download/deltaforce-pc-redump/DELTAFORCE-PC-REDUMP/Delta%20Force%20-%20Land%20Warrior%20%28Europe%29.zip)
+
+[https://archive.org/download/deltaforce-pc-redump/DELTAFORCE-PC-REDUMP/Delta%20Force%20-%20Task%20Force%20Dagger%20%28USA%29.zip](https://archive.org/download/deltaforce-pc-redump/DELTAFORCE-PC-REDUMP/Delta%20Force%20-%20Task%20Force%20Dagger%20%28USA%29.zip)
+
 [https://vimm.net/vault/50807](https://vimm.net/vault/50807)
 
+[https://vimm.net/vault/69712](https://vimm.net/vault/69712)
+
+[https://vimm.net/vault/69232](https://vimm.net/vault/69232)
+
 [![Delta Force Urban Warfare PSX](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/delta-force-urban-warfare-psx.png)](https://vimm.net/vault/50807)
+
+[![Delta Force Black Hawk Down PSX](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/dfbhd-psx.png)](https://vimm.net/vault/69712)
+
+[![Delta Force Black Hawk Down Team Sabre PSX](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/dfbhd-team-sabre-psx.png)](https://vimm.net/vault/69232)
 
 [![Delta Force Angel Falls Screenshots](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/novalogic-angel-falls.jpeg)](https://ytembed.macosxjs.com/?bzVYN3dISlR6ZWs)
 
