@@ -9,7 +9,7 @@ Classic NovaLogic Delta Force titles Delta Force 1, Delta Force 2, Delta Force: 
 [https://api.github.com/repos/igiteam/novalogic-delta-force-1998-2002/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/novalogic-delta-force-1998-2002/git/trees/main?recursive=1)
 
 ## Base Gameplay
-[![novalogic-delta-force-1998-2002](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/novalogic-delta-force-1998-2002.png)](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/novalogic-delta-force-1998-2002.png)
+[![novalogic-delta-force-1998-2002](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/novalogic-delta-force-1998-2002.jpeg)](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/novalogic-delta-force-1998-2002.jpeg)
 
 [![Delta Force 1998](https://img.youtube.com/vi/Fnj-q3ux-Us/hqdefault.jpg)](https://ytembed.macosxjs.com/?Rm5qLXEzdXgtVXM)
 
