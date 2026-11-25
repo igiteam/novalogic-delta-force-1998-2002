@@ -4,13 +4,13 @@
 
 [![Delta Force 1998](https://img.youtube.com/vi/Fnj-q3ux-Us/hqdefault.jpg)](https://ytembed.macosxjs.com/?Rm5qLXEzdXgtVXM)
 
-[![DELTA FORCE 2](https://img.youtube.com/vi/zd8aaGssVhM/maxresdefault.jpg)](https://ytembed.macosxjs.com/?emQ4YWFHc3NWaE0)
+[![DELTA FORCE 2](https://img.youtube.com/vi/zd8aaGssVhM/hqdefault.jpg)](https://ytembed.macosxjs.com/?emQ4YWFHc3NWaE0)
 
-[![Delta Force Land Warrior 2000](https://img.youtube.com/vi/FiR4umVjTi8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?RmlSNHVtVmpUaTg)
+[![Delta Force Land Warrior 2000](https://img.youtube.com/vi/FiR4umVjTi8/hqdefault.jpg)](https://ytembed.macosxjs.com/?RmlSNHVtVmpUaTg)
 
-[![Delta Force Task Force Dagger 2002](https://img.youtube.com/vi/k57ZXCe2L4Y/maxresdefault.jpg)](https://ytembed.macosxjs.com/?azU3WlhDZTJMNFk)
+[![Delta Force Task Force Dagger 2002](https://img.youtube.com/vi/k57ZXCe2L4Y/hqdefault.jpg)](https://ytembed.macosxjs.com/?azU3WlhDZTJMNFk)
 
-[![ Delta Force Urban Warfare PSX 2002](https://img.youtube.com/vi/BoLEbMti4iE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Qm9MRWJNdGk0aUU)
+[![ Delta Force Urban Warfare PSX 2002](https://img.youtube.com/vi/BoLEbMti4iE/hqdefault.jpg)](https://ytembed.macosxjs.com/?Qm9MRWJNdGk0aUU)
 
 ## Reference links
 [https://novahq.net/files.php?CategoryID=DF1&Type=Mod&Game=Delta%20Force%201](https://novahq.net/files.php?CategoryID=DF1&Type=Mod&Game=Delta%20Force%201)
