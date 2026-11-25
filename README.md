@@ -13,7 +13,7 @@ Classic NovaLogic Delta Force titles Delta Force 1, Delta Force 2, Delta Force: 
 
 [![Delta Force 1998](https://img.youtube.com/vi/Fnj-q3ux-Us/hqdefault.jpg)](https://ytembed.macosxjs.com/?Rm5qLXEzdXgtVXM)
 
-[![DELTA FORCE 2](https://img.youtube.com/vi/GauZqpap_Hs/hqdefault.jpg)](https://ytembed.macosxjs.com/?R2F1WnFwYXBfSHM)
+[![DELTA FORCE 2](https://img.youtube.com/vi/pGY8tqwl1yc/hqdefault.jpg)](https://ytembed.macosxjs.com/?cEdZOHRxd2wxeWM)
 
 [![Delta Force Land Warrior 2000](https://img.youtube.com/vi/FiR4umVjTi8/hqdefault.jpg)](https://ytembed.macosxjs.com/?RmlSNHVtVmpUaTg)
 
@@ -40,7 +40,7 @@ Classic NovaLogic Delta Force titles Delta Force 1, Delta Force 2, Delta Force: 
 
 [![Delta Force Urban Warfare PSX](https://raw.githubusercontent.com/igiteam/novalogic-delta-force-1998-2002/refs/heads/main/delta-force-urban-warfare-psx.png)](https://vimm.net/vault/50807)
 
-
+[![NovaLogic *New Game Engine*](https://img.youtube.com/vi/9Yp2LEIJ4dw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OVlwMkxFSUo0ZHc)
 
 ## Dev Environment
 
